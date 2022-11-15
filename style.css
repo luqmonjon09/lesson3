@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* padding va border width va heightni ichidan joy oladi */
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background: dodgerblue;
+    border: 5px solid red;
+    padding: 10px;
+}
+
+
+
+
+
